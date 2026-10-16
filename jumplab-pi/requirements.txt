@@ -1,0 +1,2 @@
+# No third-party Python packages are required at runtime.
+# Install system tools ffmpeg and ffprobe; see README.md.
